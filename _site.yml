@@ -15,5 +15,6 @@ navbar:
       href: contact.html                 
 output:
   html_document:
-    #theme: flatly
+    theme: flatly
     highlight: textmate
+    lib_dir: site_libs
