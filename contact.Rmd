@@ -1,0 +1,8 @@
+---
+title: Contact
+---
+Email: beccay123@gmail.com		
+
+```{r figure2, echo=FALSE, out.width = '20%', fig.align="left"}
+knitr::include_graphics("IMG_0570.JPG")
+```
